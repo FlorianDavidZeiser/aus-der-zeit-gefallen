@@ -8,8 +8,7 @@ Eine kleine, stille Reise. Drei Minuten.
 
 * Eine einzige `index.html`, in sich geschlossen. Schriften, Bilder und Code sind eingebettet, sie lädt nichts nach und braucht keine Verbindung.
 * Alles Sichtbare ist gezeichnet, in SVG und Code. Keine Fotos, keine erzeugten Bilder, kein Ton.
-* Es läuft keine künstliche Intelligenz im Hintergrund.
-* Die System-Einstellung „Bewegung reduzieren" wird respektiert, dann gibt es eine ruhigere Fassung ohne große Animationen.
+
 
 ## Teilen
 
